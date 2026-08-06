@@ -32,10 +32,10 @@ I try to keep my repos honest about what's actually working versus what's still 
 - Portfolio: [github.com/Ejoyment](https://github.com/Ejoyment)
 - Company: [codexincenterprise.online](https://codexincenterprise.online)
 
-![Ejoymene's GitHub stats](https://github-readme-stats.herokuapp.app/api?username=Ejoyment&show_icons=true&theme=tokyonight)
+![Ejoymene's GitHub stats](https://github-readme-stats.herokuapp.com/api?username=Ejoyment&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ejoyment&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.herokuapp.app/api/top-langs/?username=Ejoyment&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.herokuapp.com/api/top-langs/?username=Ejoyment&layout=compact&theme=tokyonight)
 
 
