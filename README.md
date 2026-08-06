@@ -4,6 +4,7 @@
 
 ## What I work with
 Go · Rust · TypeScript/JavaScript · Node.js · Python · Dart/Flutter
+![Top Languages](https://github-readme-stats-mocha-five-17.vercel.app/api/top-langs/?username=Ejoyment&layout=compact&theme=tokyonight)
 
 ## What I'm building
 
@@ -36,6 +37,5 @@ I try to keep my repos honest about what's actually working versus what's still 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ejoyment&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-mocha-five-17.vercel.app/api/top-langs/?username=Ejoyment&layout=compact&theme=tokyonight)
 
 
