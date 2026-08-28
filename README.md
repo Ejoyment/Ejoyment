@@ -9,7 +9,7 @@ Go · Rust · TypeScript/JavaScript · Node.js · Python · Dart/Flutter
 
 ## What I'm building
 
-- **[codex-backend](https://github.com/Ejoyment/codex-backend)** — a live backend platform with JWT auth, Stripe subscriptions, OAuth integrations, and OTP email verification, deployed on Render
+
 - **[codex-fabric](https://github.com/Ejoyment/codex-fabric)** — exploring end-to-end encrypted streaming architecture; the Go crypto layer implements real AES-256-GCM, Ed25519, and X25519 key exchange
 - **[type-vault](https://github.com/Ejoyment/type-vault)** — a CLI that scaffolds TypeScript/Express microservices with security-conscious defaults (non-root containers, network policies, current Kubernetes security standards)
 - **[EpochBridge](https://github.com/Ejoyment/EpochBridge)** — a GraphQL gateway demonstrating real-time Change Data Capture over a legacy-style database
