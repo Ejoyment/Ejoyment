@@ -1,6 +1,6 @@
 # Hi, I'm Ejoymene David 👋
 
-15-year-old software engineer based in Port Harcourt, Nigeria. I build backend systems, tooling, and infrastructure — and I'm currently teaching myself how to make them production-grade, not just working.
+16-year-old software engineer based in Port Harcourt, Nigeria. I build backend systems, tooling, and infrastructure — and I'm currently teaching myself how to make them production-grade, not just working.
 
 ## What I work with
 Go · Rust · TypeScript/JavaScript · Node.js · Python · Dart/Flutter
